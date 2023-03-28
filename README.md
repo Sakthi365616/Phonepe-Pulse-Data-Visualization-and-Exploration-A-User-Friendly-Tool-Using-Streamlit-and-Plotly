@@ -3,7 +3,7 @@
 
 ## Steps are followed to complete this project:
    + Clone the PhonePe Pulse GitHub repository using Git Bash. __ [repository](https://github.com/PhonePe/pulse#readme)
-   + Use the OS package in Python to traverse the directory where the JSON files are stored.
+   + Use the OS package in Python to traverse the directory where the JSON files are stored. refer( Phonepay.ipynb )
    + Filter the JSON files from the list of all files using the os.path.splitext() method.
    + Read the JSON files using the json.load() method and store them in a dictionary.
    + Convert the dictionary to a Pandas DataFrame using Pandas.
