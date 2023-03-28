@@ -9,7 +9,7 @@
    + Convert the dictionary to a Pandas DataFrame using Pandas.
    + Create a connection to a MySQL database using SQLAlchemy in Python.
    + Use SQLAlchemy to create tables in the MySQL database to store the processed data.
-   + Fetch data from a MySQL table using the read_sql_table() method in Pandas to use for visualizations in streamlit platform.
+   + Fetch data from a MySQL table using the read_sql_table() method in Pandas to use for visualizations in streamlit platform. refer (phonepay_streamlit.py)
    + Use plotly to create interactive visualizations in Python.
    + Display the visualizations in Streamlit.
 
